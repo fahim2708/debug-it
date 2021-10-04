@@ -3,3 +3,8 @@
     color: white;
     border: white;
 }
+.view-courses-btn:hover{
+    background-color: white;
+    color: steelblue;
+    border-color: steelblue;
+}

@@ -1,8 +1,7 @@
 import React from 'react';
-import { Button, Card, Col } from 'react-bootstrap';
-import './MainCourses.css';
+import { Card, Col, Button } from 'react-bootstrap';
 
-const MainCourse = (props) => {
+const AllCourses = (props) => {
     const { name, price, duration, img } = props.course;
     return (
         <div>
@@ -17,9 +16,9 @@ const MainCourse = (props) => {
                     </Card.Body>
                 </Card>
             </Col>
-        </div>
 
+        </div>
     );
 };
 
-export default MainCourse;
+export default AllCourses;

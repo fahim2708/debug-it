@@ -16,15 +16,15 @@ const Header = () => {
                         color: "white"
                     }}> Home
                     </NavLink>
-                    <NavLink className="menu" to="/about" activeClassName="selected" activeStyle={{
-                        fontWeight: "bold",
-                        color: "white"
-                    }}> About
-                    </NavLink>
                     <NavLink className="menu" to="/courses" activeClassName="selected" activeStyle={{
                         fontWeight: "bold",
                         color: "white"
                     }}> Courses
+                    </NavLink>
+                    <NavLink className="menu" to="/about" activeClassName="selected" activeStyle={{
+                        fontWeight: "bold",
+                        color: "white"
+                    }}> About
                     </NavLink>
                     <NavLink className="menu" to="/contact" activeClassName="selected" activeStyle={{
                         fontWeight: "bold",

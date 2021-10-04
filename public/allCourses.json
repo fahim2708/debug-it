@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Full Stack Web Developemnt",
+        "price": 15000,
+        "duration": "6 Months",
+        "img": "https://www.multidots.com/wp-content/uploads/2018/01/Full_stack_developer-1-1.jpg"
+    },
+    {
+        "name": "Digital Marketing",
+        "price": 10000,
+        "duration": "4 Months",
+        "img": "https://licreativetechnologies.com/wp-content/uploads/2020/03/Digital-Marketing.png"
+    },
+    {
+        "name": "Graphic & UI Design",
+        "price": 12000,
+        "duration": "3 Months",
+        "img": "https://lh3.googleusercontent.com/proxy/z7KCSBTTVjdC0ZF762bBlAk5AUpDI0PNWJYhbDTtj52b_w1R786IsgEb6bN-ifrTExfmkFSPaIuWRBqV77lxeaUUnkdcMuA"
+    },
+    {
+        "name": "Microsoft Office",
+        "price": 2000,
+        "duration": "2 Months",
+        "img": "https://archerpoint.com/wp-content/uploads/2019/07/office-365.jpg"
+    },
+    {
+        "name": "Web Design with Shopify",
+        "price": 8000,
+        "duration": "3 Months",
+        "img": "https://www.peopleperhour.com/guides/wp-content/uploads/2020/09/blog-shopify.jpg"
+    },
+    {
+        "name": "MERN Stack",
+        "price": 20000,
+        "duration": "6 Months",
+        "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--0FRJGdyZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg"
+    },
+    {
+        "name": "Motion Graphics",
+        "price": 18000,
+        "duration": "5 Months",
+        "img": "https://i.ytimg.com/vi/9bnOVV3EBC8/maxresdefault.jpg"
+    },
+    {
+        "name": "Learn Angular JS",
+        "price": 6000,
+        "duration": "2.5 Months",
+        "img": "https://www.techiexpert.com/wp-content/uploads/2019/07/AngularJS-1.png"
+    },
+    {
+        "name": "Laravel for Back-end Web Development",
+        "price": 20000,
+        "duration": "6 Months",
+        "img": "https://www.techcronus.com/wp-content/uploads/2019/06/Laravel-best-PHP-Framework-1568x1045.jpg"
+    },
+    {
+        "name": "React Native for Multiplatform App Development",
+        "price": 10000,
+        "duration": "4 Months",
+        "img": "https://www.appstud.com/wp-content/uploads/2018/03/React-Native-Titre.png"
+    },
+    {
+        "name": "Android App Development (Kotlin)",
+        "price": 15000,
+        "duration": "5 Months",
+        "img": "https://miro.medium.com/max/1200/1*jYvicNC-2KCMmkzeuh0Hwg.png"
+    },
+    {
+        "name": "Back-End Development With Python and Django",
+        "price": 15000,
+        "duration": "5 Months",
+        "img": "https://blog.crowdbotics.com/content/images/2019/12/python-django.png"
+    }
+]

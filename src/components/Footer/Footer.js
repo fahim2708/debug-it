@@ -6,8 +6,8 @@ import './Footer.css';
 
 const Footer = () => {
     return (
-        <div className="fixed-bottom bg-dark py-2">
-            <h5 className="text-center text-light">Copyright © 2021 Debug IT Institute</h5>
+        <div className="bg-dark py-2">
+            <h5 className="text-center text-light">Copyright © 2021 Debug IT Institute, All rights Reserved.</h5>
             <div className="text-center">
                 <Button variant="" className="social-icon"><FontAwesomeIcon icon={faFacebook} /></Button>
                 <Button variant="" className="social-icon"><FontAwesomeIcon icon={faYoutube} /></Button>
