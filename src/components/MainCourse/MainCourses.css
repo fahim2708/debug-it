@@ -1,0 +1,13 @@
+.courses-img{
+    height: 180px;
+}
+.enroll-btn{
+    border-radius: 20px;
+    color: snow;
+    background-color: rgb(4, 55, 85);
+}
+.enroll-btn:hover{
+    background-color: white;
+    color: rgb(4, 55, 85);
+    border-color: rgb(4, 55, 85);
+}
