@@ -10,9 +10,9 @@ import { faLongArrowAltRight, faPhone } from '@fortawesome/free-solid-svg-icons'
 const Home = () => {
     const [courses, setCourses] = useState([]);
     useEffect(() => {
-        fetch('./mainCourses.json')
+        fetch('./allCourses.json')
             .then(res => res.json())
-            .then(data => setCourses(data))
+            .then(data => setCourses(data.slice(0, 4)))
     }, [])
     return (
         <div className="my-5">

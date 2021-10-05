@@ -3,3 +3,13 @@
     margin-top: 15px;
     font-size: larger;
 }
+.about-details{
+    background-color: #ecf0f1;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 3px 3px #dcdde1;
+    
+}
+.about-details-single{
+    padding:15px;
+}
